@@ -1,8 +1,7 @@
-streamlit==1.32.2
-streamlit_option_menu==0.3.6
-plotly==5.20.0
-tensorflow==2.5.0
-keras==2.5.0
+streamlit
+streamlit_option_menu
+plotly
+keras
 pandas
 xlrd
 openpyxl
