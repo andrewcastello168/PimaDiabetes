@@ -2,7 +2,7 @@ streamlit
 streamlit_option_menu
 plotly
 keras
-tensorflow
+tensorflow==2.15.0
 pandas
 xlrd
 openpyxl
